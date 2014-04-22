@@ -1,0 +1,16 @@
+{
+    "name": "vendor/interpreter",
+    "description": "Description of project interpreter.",
+    "authors": [
+        {
+            "name": "jhon",
+            "email": "your@email.here"
+        }
+    ],
+    "require": {
+        "symfony/console": "dev-master",
+        "doctrine/dbal": "v2.4.2",
+        "symfony/stopwatch": "v2.4.2",
+        "symfony/event-dispatcher": "v2.4.2"
+    }
+}
